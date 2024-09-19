@@ -1,0 +1,6 @@
+flask
+pandas
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
